@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.cabecario{
+    border: 2px solid;
+    color: red;
+    justify-content: center;
+    display: flex;
+}
+.titulo{
+    color: black;
+}
+.nav-lateral{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid;
+    height: 150px;
+
+}
