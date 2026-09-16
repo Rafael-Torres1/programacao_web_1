@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-size: 50px;
+}
+
+
+.container{
+    border: 2px solid;
+    width: 650vw;
+    height: 350vh;
+}
+
+h1{
+    border: 2px solid;
+    width: 50%;
+}
+
+.unidade{
+    border: 2px solid blue;
+    width: 600px;
+    height: 350px;
+    font-size: 20px;
+}
+
+.und{
+    font-size: 2em;
+    color: aqua;
+}
+
+p{
+    font-size: 1rem ;
+}
